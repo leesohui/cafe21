@@ -1,0 +1,15 @@
+@media screen and (max-width: 1024px) {
+  div{
+      width: 100%;
+      height: auto
+  
+  }
+
+  #wrap {
+    width: 100%;
+    height: auto;
+    background-color: #cbcaca;
+  }
+
+
+}

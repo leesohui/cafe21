@@ -1,0 +1,22 @@
+body {
+
+    box-sizing: border-box;
+    overflow-x: hidden;
+    margin: 0px;
+    line-height: 13px;
+    word-break: break-all;
+    font-family: 'Poppins', sans-serif;
+    color : #42210B;
+}
+
+
+div{
+    width: 100vw;
+    height: auto;
+}
+
+img{
+   
+    width: auto;
+    height: 100%;
+}
